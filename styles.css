@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #206777;
+}
+
+.main-heading {
+  color: white;
+  text-transform: capitalize;
+  padding: 50px;
+}
